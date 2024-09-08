@@ -1,0 +1,6 @@
+@DSS.Pedido.API_HostAddress = http://localhost:5139
+
+GET {{DSS.Pedido.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

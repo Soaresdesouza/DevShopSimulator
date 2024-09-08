@@ -1,0 +1,6 @@
+@DSS.Carrinho.API_HostAddress = http://localhost:5188
+
+GET {{DSS.Carrinho.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
